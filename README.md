@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rosen Markov, I'm from Bulgaria and I'm a learning developer with experience in Python and modern frontend technologies including JavaScript, React, and Next.js, interested in building full-stack applications and improving user experience.</p>
+<p align="left">My name is Rosen Markov, I'm from Bulgaria, and I'm a learning developer with experience in Python and modern frontend technologies including JavaScript, React, and Next.js. I'm interested in building full-stack applications and focusing on improving user experience.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Trying to center divs since 2021/22<br>📚 I'm currently learning  Next.js and React.js in depth.<br>🎯 I aim to build applications that reduce user friction and deliver smooth, intuitive experiences.</p>
+<p align="left">✨ Still trying to center divs since 2021/22<br>📚 Currently learning Next.js and React.js in depth<br>🎯 I aim to build applications that reduce user friction and deliver smooth, intuitive experiences</p>
 
 ###
 
