@@ -14,8 +14,8 @@ My main focus is on building full-stack applications that prioritize performance
 ###
 
 <p align="left">
-📚 Currently deepening my knowledge of Next.js and React.js  
-⚙️ Interested in developing scalable full-stack applications  
+📚 Currently deepening my knowledge of Next.js and React.js<br>
+⚙️ Interested in developing scalable full-stack applications<br>  
 🎯 Focused on delivering efficient, maintainable, and user-friendly solutions  
 </p>
 
